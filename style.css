@@ -1,0 +1,50 @@
+    .container{
+      padding: 5px;
+      width:  1100px;
+      height: 900px;
+      margin: auto;
+      background-color: lightgrey;
+      position: relative;
+    }
+    .riquadroSuperiore{
+      width: 1100px;
+      height: 400px;
+      border-style: solid;
+      margin-bottom: 25px;
+      border-width: 5px;
+    }
+    .riquadro{
+      display: inline-block;
+      background-size: cover;
+      margin: auto;
+      height: 325px;
+      width: 325px;
+    }
+    .riquadro1{
+      background-image: url("https://www.android.com/static/2016/img/devices/tablets/transparent/sony-xperia-z4_1x.png");
+
+    }
+    .riquadro2{
+      background-image: url("https://dzpybaqldk5xx.cloudfront.net/prod/spree/852/products/153/product/smart.jpg?1520414373");
+    }
+    .riquadro3{
+      background-image: url("https://www.altroconsumo.it/-/media/altroconsumo/images/themes/hi%20tech/lettori%20audiovideo%20portatili/news/2011/cuffie%20e%20auricolari/cuffie_musica_rumore_shu_327682622_1600x900.jpg?rev=92a28047-99b2-4547-9fa6-db958bc5bc0d&la=it-IT&h=270&w=480&mw=480&hash=E245C00F297704A318909A2CAEE7898DF2C8B170");
+    }
+    .riquadroInferiore{
+      background-color: lightgrey;
+      width: 1090px;
+      height: 400px;
+      position: relative;
+      margin-top: 25px;
+      border-style: solid;
+      border-width: 5px;
+    }
+    .riquadro4{
+    }
+    .riquadro5{
+    }
+    .riquadro6{
+    }
+    .Riquadro1, Riquadro2;Riquadro3;Riquadro4;Riquadro5;Riquadro6 :hover {
+  cursor:
+}
